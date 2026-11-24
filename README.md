@@ -1,8 +1,8 @@
 # Desafio 02 — Análise de desempenho e frequência escolar
 
-> Projeto didático com dados fictícios, inspirado na organização do repositório de exemplo da trilha.
+> Projeto didático com dados fictícios.
 
-**Equipe:** [Inserir nomes dos integrantes]
+**Equipe:** [Cassio Rezende Rodrigues Batista]
 
 ## Perguntas
 1. Existe associação entre frequência escolar e média final?

@@ -1,0 +1,10 @@
+Base original: 552 linhas, 9 colunas
+Base após remoção de duplicatas: 540 linhas
+Correlação Pearson frequência x média: 0.310
+Maior média por turma: 6º A = 5.50
+Menor média por turma: 8º B = 5.05
+Grupo frequência >=85%: n=362, média=5.48
+Grupo frequência <85%: n=168, média=4.80
+Teste t Welch: t=5.764, valor-p=1.7631789e-08
+Decisão alfa=0,05: rejeitar H0
+Dados sintéticos para fins didáticos.

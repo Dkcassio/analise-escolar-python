@@ -11,9 +11,7 @@
 
 ## Principais conclusões
 .Os alunos com frequência igual ou superior a 85% apresentaram média de 5,48, enquanto aqueles com frequência abaixo de 85% tiveram média de 4,80.
-
 .Foi observada uma correlação positiva entre frequência e nota final (0,31), indicando que alunos mais frequentes tendem a apresentar melhores resultados, embora essa relação seja moderada.
-
 .A diferença entre as médias dos dois grupos foi estatisticamente significativa (teste t de Welch, valor-p < 0,05), indicando que a frequência está associada ao desempenho escolar nesta amostra.
 
 ## Arquivos
